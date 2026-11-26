@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 44" fill="none">
+  <!-- Shopping Bag Icon -->
+  <g transform="translate(2, 4)">
+    <rect x="2" y="10" width="28" height="26" rx="7" fill="#F97316"/>
+    <!-- Handle -->
+    <path d="M10 12 V8 C10 4.686 12.686 2 16 2 C19.314 2 22 4.686 22 8 V12" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Bee stripes / smile -->
+    <path d="M10 20 H22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M12 25 H20" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <!-- Text BuyBee -->
+  <text x="38" y="27" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.5">Buy<tspan fill="#FFC928">Bee</tspan></text>
+</svg>
